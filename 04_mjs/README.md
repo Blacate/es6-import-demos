@@ -1,0 +1,6 @@
+# mjs
+
+```
+yarn start
+```
+
